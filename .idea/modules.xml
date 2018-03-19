@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flicker_frogressbar/flicker_frogressbar.iml" filepath="$PROJECT_DIR$/flicker_frogressbar/flicker_frogressbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socketwifi.iml" filepath="$PROJECT_DIR$/socketwifi.iml" />
+    </modules>
+  </component>
+</project>
